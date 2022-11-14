@@ -32,7 +32,7 @@ body {
 
 .qr-image {
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 25px;
     height: 300px;
     width: 300px;
 }
@@ -41,7 +41,8 @@ body {
     text-align: center;
     text-wrap: normal;
     width: 300px;
-    padding: 15px;
+    padding: 10px;
+    color: hsl(220, 15%, 55%);
 }
 
 .qr-text:last-of-type {
